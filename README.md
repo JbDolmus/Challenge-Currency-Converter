@@ -7,10 +7,15 @@ Un proyecto en Java que implementa un conversor de monedas utilizando datos en t
 ## 📁 Estructura del Proyecto
 src/
 ├── Controller.java // Controlador principal del flujo de la aplicación
+
 ├── Interfaz.java // Clase encargada de mostrar mensajes, menús y recibir entrada del usuario
+
 ├── Logic.java // Contiene la lógica para las conversiones de moneda
+
 ├── Main.java // Clase de entrada principal del programa
+
 ├── QueryAPI.java // Maneja la consulta HTTP a la API externa y parsea la respuesta JSON
+
 └── Currency.java // Record que modela la estructura de la respuesta JSON
 
 
