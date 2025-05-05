@@ -29,7 +29,9 @@ src/
 - IntelliJ IDEA (opcional, pero recomendado)
 
 ---
+
 🔍 Funcionalidades principales
+
 - Menú interactivo con las monedas más populares del mundo.
 
 - Conversión entre USD y otras monedas (y viceversa).
@@ -40,7 +42,9 @@ src/
 
 - Animación simple de bienvenida utilizando asteriscos.
 
+
 🌍 Monedas soportadas
+
 Incluye las siguientes monedas:
 
 🇺🇸 USD – Dólar estadounidense
@@ -63,15 +67,21 @@ Incluye las siguientes monedas:
 
 🇮🇳 INR – Rupia india
 
+
 📦 Dependencias
+
 Este proyecto utiliza solo una librería externa (Gson). Asimismo, utiliza algunas bibliotecas estándar de Java.
 
+
 🔒 Notas de seguridad
+
 El archivo QueryAPI.java se encarga de conectarse de forma segura a la API.
 
 Asegúrate de no exponer tu API Key si decides usar una privada.
 
+
 📚 Créditos
+
 Desarrollado por Juan Dolmus. Este proyecto es parte de un reto educativo para fortalecer habilidades en:
 
 Java básico e intermedio
