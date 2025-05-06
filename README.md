@@ -38,9 +38,6 @@ src/
 
 - Validación de entrada para asegurar que el usuario solo ingrese valores numéricos.
 
-- Redondeo de resultados a 2 decimales.
-
-- Animación simple de bienvenida utilizando asteriscos.
 
 
 🌍 Monedas soportadas
@@ -82,7 +79,7 @@ Asegúrate de no exponer tu API Key si decides usar una privada.
 
 📚 Créditos
 
-Desarrollado por Juan Dolmus. Este proyecto es parte de un reto educativo para fortalecer habilidades en:
+Desarrollado por Juan Dolmus. Este proyecto es parte de un reto o Challenge educativo en ONE para fortalecer habilidades en:
 
 Java básico e intermedio
 
